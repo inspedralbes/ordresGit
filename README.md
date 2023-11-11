@@ -10,6 +10,7 @@ Repositori per mostrar algunes de les possibilitats de GIT
  1. Naranja
  1. Mango
  1. Poma
+ 1. Pera
  1. Plàtan
  1. Raim
  1. Síndria
